@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 Run the scanner:
 
-python main.py
+python3 main.py
 
 ## Screenshots
 
